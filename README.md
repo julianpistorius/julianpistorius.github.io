@@ -1,0 +1,106 @@
+# Julian Pistorius
+
+## Objective
+
+Experienced Senior Research Software Engineer with a demonstrated history of working in higher education and industry. Skilled in Python, Linux/Unix, Containers, Databases, Cloud, and Elm front-end development. Seeking to leverage my technical skills and passion for research to contribute to a dynamic team.
+
+## Education
+
+B.S., Computer Science: The University of Auckland, New Zealand (1997-1998)  
+The University of Pretoria, South Africa (1995-1997)
+
+## Professional Experience
+
+**Independent Contractor for Indiana University, 2020 – Present**
+
+- Software development and support of [Exosphere](https://exosphere.app), the primary user interface for the [Jetstream2](https://jetstream-cloud.org) research cloud
+- Consultant on cultivating the open source ecosystem of Exosphere, funded by an NSF POSE Phase I award
+
+**University of Arizona, Tucson AZ (arizona.edu), 2016 – 2022**
+
+Held senior software engineering positions at a life sciences research institute as well as a data science team of the College of Agriculture and Life Sciences
+
+- Developed, maintained, and provided user support for cloud-based services such as [Atmosphere](https://github.com/cyverse/atmosphere) (for both CyVerse and Jetstream), [SPARCd](https://github.com/culverlab/sparcd), and the [Predictive Ecosystem Analyzer (PEcAn)](https://github.com/PecanProject/pecan)
+- Benchmarked, monitored, analyzed, and improved the performance of complex web applications at scale
+- Implemented continuous integration and deployment with automated regression tests
+- Researched and evaluated software technologies
+- Built self-service tools and dashboards for support staff
+- Assisted researchers, presented webinars, and taught workshops on modern computational tools & techniques for increased reliability, reproducibility, and collaboration
+- Worked with researchers to develop, optimize, and deploy domain-specific applications to cloud & HPC - including large scale, high-throughput algorithms for human genomic simulation and plant phenotyping
+- Instigated numerous initiatives to better serve research communities
+
+**Software Company, 2013 – 2016**
+
+- Built a platform to integrate and automate various business processes in property management
+- Implemented features including vendor procurement, work orders, invoicing, accounting, and electronic payments
+
+**Medical Startup, 2015 – 2016**
+
+- Troubleshooting and improved development process
+- Designed, prototyped, and implemented new features
+- Introduced asynchronous processing into the architecture
+
+**Tutoring Company, 2014 – 2015**
+
+Tutored University Computer Science students, mainly in Python
+
+**Additional work history from 1995 – 2014 (Details available on request)**
+
+Industries:	Educational Sector, Finance & Banking, E-Commerce, Search Engines, Mobile, Mining
+
+## Open Source Projects
+
+**Exosphere ([gitlab.com/exosphere/exosphere](https://gitlab.com/exosphere/exosphere))**
+
+Co-founder and maintainer of this open-source project written in Elm, enabling non-technical people to leverage the power of cloud-computing (starting with OpenStack).
+
+## Community Involvement
+
+**Research Bazaar Arizona ([researchbazaar.arizona.edu](https://researchbazaar.arizona.edu))**
+
+Co-founded this grassroots organization in early 2016 to foster a community of practice for people who work with data. 
+
+**Tucson Python Meetup ([meetup.com/tucson-python-meetup](https://www.meetup.com/tucson-python-meetup))**
+
+Co-founded this community group in 2014 to promote Python and increase programming literacy through coding sessions, talks, and workshops.
+
+**OpenStack Scientific SIG** 
+
+Active in community since 2016.
+
+## Publications
+
+- Pistorius, Julian, et al. "Exosphere-Bringing The Cloud Closer." 2020 IEEE/ACM International Workshop on Interoperability of Supercomputing and Cloud Technologies (SuperCompCloud). IEEE, 2020. [DOI: 10.1109/SuperCompCloud51944.2020.00006](https://doi.org/10.1109/SuperCompCloud51944.2020.00006)
+- Schnaufer, Christophe, Julian L. Pistorius, and David S. LeBauer. "An open, scalable, and flexible framework for automated aerial measurement of field experiments." Autonomous air and ground sensing systems for Agricultural Optimization and phenotyping V. Vol. 11414. SPIE, 2020. [DOI: 10.1117/12.2560008](https://doi.org/10.1117/12.2560008)
+- Gladstein, Ariella L., et al. "Simprily: a Python framework to simplify high-throughput genomic simulations." SoftwareX 7 (2018): 335-340. [DOI: 10.1016/j.softx.2018.09.003](https://doi.org/10.1016/j.softx.2018.09.003)
+
+## Awards
+
+- NSF Award - [POSE: Phase I: Evolving Exosphere with Community-Driven Software Stewardship](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2229642)
+
+## Professional Links
+
+- [GitHub](https://github.com/julianpistorius)
+- [GitLab](https://gitlab.com/julianpistorius)
+- [LinkedIn](https://www.linkedin.com/in/julianpistorius)
+- [ORCID](https://orcid.org/0000-0002-3485-0084)
+
+## Skills
+
+- Python (13 years)
+- Elm front-end (5 years)
+- Web front-end, general (17 years)
+- Linux/Unix (19 years)
+- Containers (5 years)
+- Databases (20 years)
+- Cloud (12 years)
+- Testing & CI/CD (14 years)
+- Infrastructure-as-code (7 years)
+- Java (7 years)
+- Mobile (4 years)
+- Source Control (20 years)
+- Community Building (10 years)
+
+## References
+
+Available upon request
